@@ -37,5 +37,9 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wirosmango&show_icons=true&theme=algolia)
+
+---
+
 ```bash
 wiros@nixos:~#nix-channel --update && nix-rebuild switch --upgrade
