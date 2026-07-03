@@ -6,7 +6,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://swaywm.org/">
-    <img src="https://cdn.simpleicons.org/sway/2ECC71" height="40" alt="sway" />
+    <img src="https://cdn.simpleicons.org/sway/4588f5" height="40" alt="sway" />
   </a>
   &nbsp;&nbsp;
   <a href="https://nixos.org">
@@ -31,11 +31,11 @@
 </p>
 
 ## Обо мне
-* Ч: Дилибиб, друн хинера (https://github.com/PurityMind)  
+* Ч: Дилибиб, друн [хинера] (https://github.com/PurityMind)  
 * Current state: пытаюсь осилить nixos
-* Лучший сервер на свете: [Тык](https://wirosmango.github.io/huegrad.github.io/)
+* Лучший сервер на свете: [Нажмите, чтобы начать строить дилдаки](https://wirosmango.github.io/huegrad.github.io/)
 
 ---
 
 ```bash
-nixos ~ # nix-channel --update && nix-rebuild switch --upgrade```
+wiros@nixos:~#nix-channel --update && nix-rebuild switch --upgrade
