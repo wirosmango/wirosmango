@@ -1,8 +1,8 @@
 # wirosmango
 ## Стек
 <p align="left">
-  <a href="https://www.archlinux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="40" alt="gentoo" />
+  <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="vs2022" />
   </a>
   &nbsp;&nbsp;
   <a href="https://swaywm.org/">
@@ -32,7 +32,7 @@
 
 ## Обо мне
 * Ч: Дилибиб, друн [хинера](https://github.com/PurityMind)  
-* Current state: пытаюсь осилить nixos
+* Current state: осилил NixOS, лучше системы нет (наверное)
 * Лучший сервер на свете: [Нажмите, чтобы начать строить дилдаки](https://wirosmango.github.io/huegrad.github.io/)
 
 ---
