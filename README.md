@@ -33,7 +33,7 @@
 ## Обо мне
 * Ч: Дилибиб, друн [хинера](https://github.com/PurityMind)  
 * Current state: осилил NixOS, лучше системы нет (наверное)
-* Лучший сервер на свете: [Нажмите, чтобы начать строить дилдаки](https://wirosmango.github.io/huegrad.github.io/)
+* Лучший сервер на свете: [Нажмите, чтобы начать строить дилдаки](https://wirosmango.github.io/huegrad-site/)
 
 ---
 
