@@ -42,4 +42,4 @@
 ---
 
 ```bash
-wiros@nixos:~#nix-channel --update && nix-rebuild switch --upgrade
+wiros@nixos:~#nix-channel --update && nixos-rebuild switch --upgrade
