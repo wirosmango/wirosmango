@@ -1,7 +1,7 @@
 {
- "key": "9c674626",
+ "key": "c940c136",
  "stars": 8,
- "contributions": 429,
+ "contributions": 430,
  "repos": 9,
  "followers": 4,
  "languages": [
@@ -108,11 +108,15 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -136,7 +140,7 @@
   {
    "name": "sway-dotfiles",
    "url": "https://github.com/wirosmango/sway-dotfiles",
-   "text": "My dotfiles for swaywm",
+   "text": "мои дотфайлы для swayfx",
    "fork": false,
    "stars": 3,
    "language": "Shell",
@@ -147,7 +151,7 @@
   {
    "name": "sway-dotfiles",
    "url": "https://github.com/wirosmango/sway-dotfiles",
-   "text": "My dotfiles for swaywm",
+   "text": "мои дотфайлы для swayfx",
    "fork": false,
    "stars": 3,
    "language": "Shell",
