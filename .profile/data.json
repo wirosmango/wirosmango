@@ -1,9 +1,9 @@
 {
- "key": "8abd69a8",
+ "key": "9ce8fa68",
  "stars": 8,
  "contributions": 430,
  "repos": 9,
- "followers": 4,
+ "followers": 3,
  "languages": [
   [
    "Kotlin",
@@ -125,9 +125,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null
   ]
  ],
