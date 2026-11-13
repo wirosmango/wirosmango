@@ -1,25 +1,25 @@
 {
- "key": "3efeb4fb",
+ "key": "b7079689",
  "stars": 9,
- "contributions": 444,
- "repos": 10,
+ "contributions": 451,
+ "repos": 11,
  "followers": 3,
  "languages": [
   [
    "Kotlin",
-   612316
+   682196
   ],
   [
    "HTML",
-   242223
+   249546
   ],
   [
    "JavaScript",
-   90053
+   92919
   ],
   [
    "CSS",
-   76911
+   82968
   ],
   [
    "Python",
@@ -123,16 +123,20 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 6,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 9
  },
  "pins": [
@@ -198,7 +202,7 @@
    "text": "Хз фигня какая-то",
    "fork": false,
    "stars": 1,
-   "language": "CSS",
+   "language": "HTML",
    "topics": []
   },
   {
@@ -208,6 +212,15 @@
    "fork": false,
    "stars": 1,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "lentitudroid",
+   "url": "https://github.com/wirosmango/lentitudroid",
+   "text": "Lentitud client for Android",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
