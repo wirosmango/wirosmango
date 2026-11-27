@@ -1,8 +1,8 @@
 {
- "key": "2db42f7c",
+ "key": "db0345e4",
  "stars": 9,
  "contributions": 478,
- "repos": 14,
+ "repos": 12,
  "followers": 3,
  "languages": [
   [
@@ -20,10 +20,6 @@
   [
    "CSS",
    82968
-  ],
-  [
-   "C",
-   77336
   ],
   [
    "C#",
@@ -79,7 +75,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 3,
     "day": 16,
     "today": false
    },
@@ -126,21 +122,25 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 3,
     "day": 25,
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 7,
+  "current": 8,
   "longest": 9
  },
  "pins": [
@@ -228,15 +228,6 @@
    "topics": []
   },
   {
-   "name": "gtkgram",
-   "url": "https://github.com/wirosmango/gtkgram",
-   "text": "Клиент Telegram на C с GTK4",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
-   "topics": []
-  },
-  {
    "name": "lentitud-client",
    "url": "https://github.com/wirosmango/lentitud-client",
    "text": "Клиент Lentitud на C#",
@@ -261,15 +252,6 @@
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "proshivkaos-fork",
-   "url": "https://github.com/wirosmango/proshivkaos-fork",
-   "text": "Форк proshivkaOS",
-   "fork": true,
-   "stars": 0,
-   "language": "C",
    "topics": []
   },
   {
